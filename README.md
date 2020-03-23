@@ -12,7 +12,7 @@ Or you can head directly to the [latest version release page](https://github.com
 
 After obtaining the rmskin file and installing the skin, wallpapers can be added in the default RainMeter skin directory.
 
-`C:\Users\muazamkamal\Documents\Rainmeter\Skins\WallTime`
+`C:\Users\<user>\Documents\Rainmeter\Skins\WallTime`
 
 ### Customizing
 
